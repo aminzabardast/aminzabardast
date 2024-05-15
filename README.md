@@ -11,6 +11,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%23F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ·
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
@@ -31,6 +34,38 @@
 ![GNU/Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+·
+![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=obsidian&logoColor=white)
+
+#### ⚙️ I use regularly
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
+·
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%23003545?style=flat-square&logo=mariadb&logoColor=white)
+
+
+#### ⚙️ I use on occasion
+
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
+·
+![Keras](https://img.shields.io/badge/keras-%23D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+·
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=mui&logoColor=white)
+
+#### ⚙️ I have - rusty - knowledge of
+
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+·
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-%2376B900?style=flat-square&logo=nvidia&logoColor=white)
 
 <details>
   <summary>⚡️ GitHub Stats</summary>
