@@ -8,9 +8,9 @@ TODO: Introduction
 TODO: Reach Me On / Socials
 -->
 
-### Skills / Technologies
+### Skills 🧑🏻‍💻 / Technologies ⚙️
 
-#### ⚙️ I use daily
+#### I use daily
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@ TODO: Reach Me On / Socials
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-#### ⚙️ I use regularly
+#### I use regularly
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
@@ -57,7 +57,7 @@ TODO: Reach Me On / Socials
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545?style=flat-square&logo=mariadb&logoColor=white)
 
 
-#### ⚙️ I use on occasion
+#### I use on occasion
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
@@ -73,7 +73,7 @@ TODO: Reach Me On / Socials
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Latex](https://img.shields.io/badge/LaTeX-%23008080?style=flat-square&logo=latex)
 
-#### ⚙️ I have - a rusty - knowledge of
+#### I have - a rusty - knowledge of
 
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
