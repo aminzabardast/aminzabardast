@@ -68,6 +68,8 @@
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-%2376B900?style=flat-square&logo=nvidia&logoColor=white)
+·
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 
 <details>
   <summary>⚡️ GitHub Stats</summary>
