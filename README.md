@@ -32,7 +32,7 @@
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-# GitHub Stats
+### GitHub Stats
 
 ![Amin's Github Stats](http://githubstats.aminzabardast.com/)
 
