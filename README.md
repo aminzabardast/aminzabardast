@@ -34,6 +34,7 @@
 
 <details>
   <summary>⚡️ GitHub Stats</summary>
+
   ![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
 </details>
 
