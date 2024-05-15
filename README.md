@@ -32,10 +32,10 @@
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-### GitHub Stats
-
-![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
-
+<details>
+  <summary>⚡️ GitHub Stats</summary>
+  ![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
+</details>
 
 <!--
 **aminzabardast/aminzabardast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
