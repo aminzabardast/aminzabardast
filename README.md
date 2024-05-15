@@ -8,6 +8,7 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-%23FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
