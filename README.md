@@ -13,23 +13,23 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%23F69220?style=flat-square&logo=pnpm&logoColor=white)
-|
+·
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
-|
+·
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
-|
+·
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-|
+·
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-|
+·
 ![MacOS](https://img.shields.io/badge/macOS-%23000?style=flat-square&logo=macos&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
-|
+·
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 
