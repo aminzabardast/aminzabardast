@@ -34,7 +34,6 @@
 ![MacOS](https://img.shields.io/badge/macOS-%23000?style=flat-square&logo=macos&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
-·
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 
