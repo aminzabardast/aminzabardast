@@ -59,6 +59,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=mui&logoColor=white)
 ·
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 #### ⚙️ I have - a rusty - knowledge of
 
