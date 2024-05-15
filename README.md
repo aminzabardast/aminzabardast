@@ -57,6 +57,8 @@
 ·
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=mui&logoColor=white)
+·
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 
 #### ⚙️ I have - rusty - knowledge of
 
