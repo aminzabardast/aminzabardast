@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Amin's Github Stats](https://githubstats.aminzabardast.com/)
+![Amin's Github Stats](http://githubstats.aminzabardast.com/)
 
 <!--
 **aminzabardast/aminzabardast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
