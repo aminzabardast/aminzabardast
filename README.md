@@ -34,7 +34,7 @@
 
 ### GitHub Stats
 
-![Amin's Github Stats](http://githubstats.aminzabardast.com/)
+![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
 
 
 <!--
