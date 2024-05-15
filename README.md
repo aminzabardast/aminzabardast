@@ -60,7 +60,7 @@
 ·
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#### ⚙️ I have - rusty - knowledge of
+#### ⚙️ I have - a rusty - knowledge of
 
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
