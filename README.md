@@ -24,6 +24,7 @@ TODO: Reach Me On / Socials
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=white)
+![Rollup.js](https://img.shields.io/badge/Rollup.js-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
