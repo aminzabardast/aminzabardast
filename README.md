@@ -8,7 +8,7 @@ TODO: Introduction
 TODO: Reach Me On / Socials
 -->
 
-### Skills 🧑🏻‍💻 / Technologies ⚙️
+### Skills 🧑🏻‍💻, Technologies ⚙️, and Tools 🛠️
 
 #### I use daily
 
