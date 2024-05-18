@@ -9,10 +9,6 @@ Efficiency is my middle name, so I'm all about automating those mundane tasks to
 Let's chat about creating some seriously cool software together! 🚀
 
 <!--
-TODO: Introduction
--->
-
-<!--
 TODO: Reach Me On / Socials
 -->
 
