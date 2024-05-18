@@ -5,7 +5,7 @@ I'm super passionate about Software Engineering, Software Architecture, and ensu
 My journey includes diving deep into data science 📊 and geeking out over data-centric AI 🤓.
 I'm also a Linux enthusiast 🐧 who loves customizing Linux-based OSs and dabbling in DevOps by self-hosting various services.
 Efficiency is my middle name, so I'm all about automating those mundane tasks to free up time for the good stuff!
-⚙️ When I'm not knee-deep in code, you'll catch me gaming 🎮, snapping photos 📸, getting lost in Sci-Fi books 🚀, or making a splash in the pool! 🏊‍♂️
+⚙️ When I'm not knee-deep in code, you'll catch me gaming 🎮, snapping photos 📸, getting lost in Sci-Fi books 📚, analyze scientific papers 📄, or making a splash in the pool! 🏊‍♂️
 Let's chat about creating some seriously cool software together! 🚀
 
 <!--
