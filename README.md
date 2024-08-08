@@ -69,6 +69,7 @@ TODO: Reach Me On / Socials
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Keras](https://img.shields.io/badge/keras-%23D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=mui&logoColor=white)
