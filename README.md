@@ -71,7 +71,6 @@ TODO: Reach Me On / Socials
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-
 ##### I use on occasion
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -101,11 +100,16 @@ TODO: Reach Me On / Socials
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r)
 
+#### Open Source Contributions 🌱
+
+- [GPTWoL](https://github.com/Misterbabou/gptwol): Simple Wake/Sleep On LAN Docker GUI
+- [WeTTY](https://github.com/butlerx/wetty): Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
 <details>
   <summary>⚡️ GitHub Stats</summary>
 
-  ![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
+![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
+
 </details>
 
 <!--
