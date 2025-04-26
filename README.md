@@ -10,6 +10,8 @@ I'm also a Linux enthusiast 🐧 who loves customizing Linux-based OSs and dabbl
 
 As a productivity geek 📈, I'm all about automating those mundane tasks to free up time for the good stuff! ⚙️
 
+I enjoy contributing to open source projects, especially the ones I use myself. ❤️
+
 When I'm not knee-deep in code, you'll catch me gaming 🎮, snapping photos 📸, getting lost in Sci-Fi books 📚, analyzing scientific papers 📄, or making a splash in the pool! 🏊‍♂️
 
 Let's chat about creating some seriously cool software together! 🚀
