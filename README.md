@@ -20,6 +20,11 @@ Let's chat about creating some seriously cool software together! 🚀
 TODO: Reach Me On / Socials
 -->
 
+#### Open Source Contributions 🌱
+
+- [GPTWOL](https://github.com/Misterbabou/gptwol): Simple Wake/Sleep On LAN Docker GUI
+- [WeTTY](https://github.com/butlerx/wetty): Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
 #### Skills 🧑🏻‍💻, Technologies ⚙️, and Tools 🛠️
 
 ##### I use daily
@@ -99,11 +104,6 @@ TODO: Reach Me On / Socials
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r)
-
-#### Open Source Contributions 🌱
-
-- [GPTWOL](https://github.com/Misterbabou/gptwol): Simple Wake/Sleep On LAN Docker GUI
-- [WeTTY](https://github.com/butlerx/wetty): Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
 <details>
   <summary>GitHub Stats ⚡️</summary>
