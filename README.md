@@ -106,7 +106,7 @@ TODO: Reach Me On / Socials
 - [WeTTY](https://github.com/butlerx/wetty): Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
 <details>
-  <summary>⚡️ GitHub Stats</summary>
+  <summary>GitHub Stats ⚡️</summary>
 
 ![Amin's Github Stats](https://github-readme-stats.zohan.tech/api?username=aminzabardast&show_icons=true&locale=en)
 
