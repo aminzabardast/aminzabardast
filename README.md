@@ -102,7 +102,7 @@ TODO: Reach Me On / Socials
 
 #### Open Source Contributions 🌱
 
-- [GPTWoL](https://github.com/Misterbabou/gptwol): Simple Wake/Sleep On LAN Docker GUI
+- [GPTWOL](https://github.com/Misterbabou/gptwol): Simple Wake/Sleep On LAN Docker GUI
 - [WeTTY](https://github.com/butlerx/wetty): Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
 <details>
