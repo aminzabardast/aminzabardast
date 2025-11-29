@@ -32,6 +32,8 @@ TODO: Reach Me On / Socials
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<!-- TODO: Add LangGraph -->
+<!-- TODO: Add Ollama -->
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 <!-- TODO: Add Docker Compose -->
@@ -74,6 +76,7 @@ TODO: Reach Me On / Socials
 
 ##### I use on occasion
 
+<!-- TODO: Add HuggingFace -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-%23FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0?style=flat-square&logo=vuetify&logoColor=white)
