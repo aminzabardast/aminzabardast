@@ -34,23 +34,25 @@ TODO: Reach Me On / Socials
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+<!-- TODO: Add Docker Compose -->
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![MacOS](https://img.shields.io/badge/macOS-%23000?style=flat-square&logo=macos&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white)
-![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=obsidian&logoColor=white)
+<!-- TODO: Add PostgreSQL -->
 
 ##### I use regularly
 
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
