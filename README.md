@@ -96,7 +96,7 @@ TODO: Reach Me On / Socials
 ##### I have - a rusty - knowledge of
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%23D00000?style=flat-square&logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=keras&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=mui&logoColor=white)
