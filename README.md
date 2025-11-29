@@ -34,7 +34,6 @@ TODO: Reach Me On / Socials
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
@@ -66,6 +65,8 @@ TODO: Reach Me On / Socials
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Gitlab](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 
 ##### I use on occasion
 
