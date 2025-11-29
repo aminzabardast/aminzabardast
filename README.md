@@ -38,7 +38,7 @@ TODO: Reach Me On / Socials
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
-![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![MacOS](https://img.shields.io/badge/macOS-%23000?style=flat-square&logo=macos&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white)
