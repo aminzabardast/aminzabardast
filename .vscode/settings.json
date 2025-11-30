@@ -8,6 +8,7 @@
         "GPTWOL",
         "Keras",
         "Numpy",
+        "Ollama",
         "scikit",
         "Vuetify",
         "Zabardast"

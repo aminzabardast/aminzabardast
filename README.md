@@ -30,13 +30,14 @@ TODO: Reach Me On / Socials
 ##### I use daily
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
-<!-- TODO: Add LangGraph -->
-<!-- TODO: Add Ollama -->
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logo=ollama&logoColor=black)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-<!-- TODO: Add Docker Compose -->
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
@@ -53,12 +54,7 @@ TODO: Reach Me On / Socials
 ##### I use regularly
 
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
-![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.JS](https://img.shields.io/badge/Vue.JS-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-%23F69220?style=flat-square&logo=pnpm&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
@@ -70,13 +66,21 @@ TODO: Reach Me On / Socials
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
-![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
+![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/Vue.JS-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-%23F69220?style=flat-square&logo=pnpm&logoColor=white)
 
 ##### I use on occasion
 
 <!-- TODO: Add HuggingFace -->
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
+![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
+![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-%23FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0?style=flat-square&logo=vuetify&logoColor=white)
@@ -88,8 +92,6 @@ TODO: Reach Me On / Socials
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
-![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
