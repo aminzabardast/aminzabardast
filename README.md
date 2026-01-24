@@ -94,6 +94,7 @@ TODO: Reach Me On / Socials
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%230467DF?style=flat-square&logo=meta&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Gitlab](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
