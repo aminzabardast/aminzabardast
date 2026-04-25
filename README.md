@@ -31,9 +31,9 @@ TODO: Reach Me On / Socials
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E520E9?style=flat-square&logo=Pydantic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logo=ollama&logoColor=black)
 ![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,6 +73,9 @@ TODO: Reach Me On / Socials
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%23F69220?style=flat-square&logo=pnpm&logoColor=white)
+![---](https://img.shields.io/badge/%7C-black?style=flat-square)<!--Spacer -->
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 
 ##### I use on occasion
 
