@@ -1,6 +1,6 @@
 ### Hi there! I'm Amin Zabardast! 👋
 
-I have a master's degree in informatics and with a decade of experience as a Software Developer, I'm all about crafting top-notch software that stands the test of time.
+I have a master's degree in informatics and with a decade of experience as a Data Sceintist and Programmer, I'm all about crafting top-notch software that stands the test of time.
 
 I'm super passionate about Software Engineering, Software Architecture, and ensuring software is not just functional, but fabulous! 💻
 
